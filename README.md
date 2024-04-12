@@ -1,1 +1,1 @@
-# classe-de-guerreiros
+# Classes de guerreiros
