@@ -36,3 +36,6 @@ Ao final deve se exibir uma mensagem:
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
   guerreiro atacou usando espada
+
+ ## Resolução
+![guerreiro](https://github.com/lucasbizachi/classe-de-guerreiros/assets/101759223/7443984b-65db-48fb-84d0-1f65d45d640d)
